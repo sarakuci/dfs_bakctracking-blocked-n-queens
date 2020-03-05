@@ -1,0 +1,11 @@
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\bin\Debug\netcoreapp3.1\DFS_Backtracking.exe
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\bin\Debug\netcoreapp3.1\DFS_Backtracking.deps.json
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\bin\Debug\netcoreapp3.1\DFS_Backtracking.runtimeconfig.json
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\bin\Debug\netcoreapp3.1\DFS_Backtracking.runtimeconfig.dev.json
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\bin\Debug\netcoreapp3.1\DFS_Backtracking.dll
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\bin\Debug\netcoreapp3.1\DFS_Backtracking.pdb
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\obj\Debug\netcoreapp3.1\DFS_Backtracking.csprojAssemblyReference.cache
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\obj\Debug\netcoreapp3.1\DFS_Backtracking.AssemblyInfoInputs.cache
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\obj\Debug\netcoreapp3.1\DFS_Backtracking.AssemblyInfo.cs
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\obj\Debug\netcoreapp3.1\DFS_Backtracking.dll
+C:\Users\Sara Kuci\Desktop\AI\Grupi_2_Projekti_AI\Detyra 3\BlockedNQueens_DFS_Backtracking\DFS_Backtracking\obj\Debug\netcoreapp3.1\DFS_Backtracking.pdb
